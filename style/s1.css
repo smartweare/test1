@@ -1,0 +1,279 @@
+body{
+	margin:0 ;
+	font-family:微软雅黑;
+	padding:0;
+	font-size:15px;
+}
+ul{
+	list-style-type:none;
+     margin:0;
+     padding:0;
+	
+}
+#content{
+	width:1024px;
+	position:relative;
+	margin:0 auto;
+}
+hr{
+	border-top:6px #DDD solid;
+}
+h1 {
+		
+		
+		height:86px;
+		background-image:url('../images/2.jpg');
+		background-repeat:no-repeat;
+		margin:0; 
+	}
+	h1 span{
+		display:none;
+	}
+	h2{
+		height:235px;
+		width:430px;
+		background-image:url('../images/17.jpg');
+		background-repeat:no-repeat;
+		margin:0; 
+		float:left;
+	}
+	h2 span{
+		display:none;
+	}
+	
+	#topmenu{
+		position:absolute;
+		right:65px;
+		top:20px;
+	}
+	#topMenu li{
+		float:left;
+		padding:20px 10px 0;
+		border-left:1px #ddd solid;
+	}
+	#topMenu li a{
+		color:gray;
+		text-decoration:none;
+	}
+	.mid{
+		background-color:rgb(232,232,232);
+		height:230px;
+		background-image:url('../images/1.jpg');
+		
+	}
+	.mid2{
+		text-align:center;
+		
+	}
+	.mid2 p {
+		
+		font-size:20px;
+		padding-top:95px;
+		
+	}
+	.mid2 a{
+		color:gray;
+		text-decoration:none;
+		padding-top:5px;
+		
+	}
+	
+	#divbox1{
+		clear:both;
+	}
+	
+	#divbox1 li a{
+		
+		color:gray;
+		text-decoration:none;
+		line-height:50px;
+	}
+	
+	#divbox2{
+		clear:both;
+	}
+	h5 {
+		height:250px;
+		width:434px;
+		background-image:url('../images/4.jpg');
+		background-repeat:no-repeat;
+		margin:0; 
+		float:left;
+	}
+	h5 span{
+		display:none;
+	}
+	#divbox2 li a{
+		
+		color:gray;
+		text-decoration:none;
+		line-height:50px;
+	}
+	#divbox4{
+		clear:both;
+	}
+	h6 {
+		height:250px;
+		width:434px;
+		background-image:url('../images/5.jpg');
+		background-repeat:no-repeat;
+		margin:0; 
+		float:left;
+	}
+	h6 span{
+		display:none;
+	}
+	#divbox4 li a{
+		
+		color:gray;
+		text-decoration:none;
+		line-height:50px;
+	}
+	
+	
+	
+	
+	
+	
+	
+	#divbox5{
+		clear:both;
+	}
+	h7 {
+		height:250px;
+		width:434px;
+		background-image:url('../images/6.jpg');
+		background-repeat:no-repeat;
+		margin:0; 
+		float:left;
+	}
+	h7 span{
+		display:none;
+	}
+	#divbox5 li a{
+		
+		color:gray;
+		text-decoration:none;
+		line-height:50px;
+	}
+	
+	
+	
+	
+	
+	
+	
+	#divbox6{
+		clear:both;
+	}
+	h8 {
+		height:250px;
+		width:434px;
+		background-image:url('../images/7.jpg');
+		background-repeat:no-repeat;
+		margin:0; 
+		float:left;
+	}
+	h8 span{
+		display:none;
+	}
+	#divbox6 li a{
+		
+		color:gray;
+		text-decoration:none;
+		line-height:50px;
+	}
+	
+	#divbox7{
+		clear:both;
+		float:left;
+	}
+	
+	#divbox8{
+		clear:both;
+		float:left;
+		
+	}
+	#divbox7  li a{
+		
+		color:gray;
+		text-decoration:none;
+		line-height:50px;
+		padding-right:100px;
+	}
+	#divbox8  li a{
+		
+		color:gray;
+		text-decoration:none;
+		line-height:50px;
+		padding-right:180px;
+	}
+	#divbox9  li a{
+		
+		color:gray;
+		text-decoration:none;
+		line-height:50px;
+	}
+	#divbox10  li a{
+		
+		color:gray;
+		text-decoration:none;
+		line-height:50px;
+	}
+	#narrower{
+		clear:both;
+		margin:0;
+		padding:0;
+		
+		
+	}
+	#narrower2{
+		padding-bottom:20px;
+	}
+	#narrower2  a{
+		color:gray;
+		text-decoration:none;
+		padding-left:20px;
+	}
+	#narrower3{
+		padding-bottom:20px;
+	}
+	#narrower3  a{
+		color:gray;
+		text-decoration:none;
+		padding-left:20px;
+	}
+	#narrower4  a{
+		color:gray;
+		text-decoration:none;
+		padding-left:20px;
+	}
+	#footer{
+		clear:both;
+	}
+	#footer ul{
+		margin-top:15px;
+		height:30px; 
+		border-bottom:10px #ddd solid;
+		border-top:10px #ddd solid;
+	}
+	#footer ul li{
+		width:525px;
+		float:left;
+		height:40px;
+		background-color:#ddd;
+		text-align:center;
+		line-height:30px;
+		border-left:1px #bbb solid;
+	}
+	
+
+	h11{
+		height:32px;
+		background-image:url('../images/sina1.png');
+	}
+	
+	
+	
+	
+	

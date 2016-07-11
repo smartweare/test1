@@ -1,0 +1,145 @@
+body {
+	background:#000;
+	border:0;font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#a09d99;
+	line-height:22px;
+	}
+	#content{
+		width:1024px;
+		margin:0 auto;
+	}
+h1 {
+	float:left;
+	padding:33px 0 0 16px; 
+	}
+#logo {
+	display:block;
+	background:url(../images/logo.png) 0 0 no-repeat;
+	width:298px;
+	height:79px;
+	text-indent:-9999px;
+	}
+h2 {
+	font-size:35px;
+	color:#fff;
+	line-height:1.2em;
+	padding:28px 0 16px 0;
+	font-weight:normal;
+	letter-spacing:-2px;
+	}	
+h2 span {
+	display:block;
+	margin-top:-7px;
+	}	
+h3 {
+	font-size:25px;
+	color:#fff;
+	font-weight:normal;
+	line-height:1.2em;
+	padding:34px 0 8px 0;
+	letter-spacing:-1px;
+	}
+.wrapper {
+	width:100%;
+	overflow:hidden;
+	}	
+.body1 {
+	background:url(../images/bg_top2.gif) top repeat-x #0e0b06;
+	}
+.body2 {
+	background:#1c160d;
+	}
+.main {
+	margin:0 auto;
+	}	
+#menu {
+	float:right;
+	padding:71px 16px 0 0;
+	}
+#menu li {
+	float:left;
+    padding-left:1px;
+}
+menu li a {
+	display:block;
+	font-size:19px;
+	color:#130c04;
+	text-decoration:none;
+	line-height:42px;
+	height:43px;
+	padding:0 19px;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	position:relative;
+	background:url(../images/spacer.gif) repeat;
+	}
+a {
+   color:#fff;
+   text-decoration:underline;
+   outline:none;
+   }
+#content {
+	padding:0 0 34px 23px;
+	}
+#content2 {
+	padding:3px 0 15px 23px;
+	}
+.color1 {
+	color:#fff;
+	}	
+pre{
+	font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#a09d99;
+	line-height:27px;
+	}	
+.zi1{
+	font-family:"微软雅黑";
+	font-size:24px;
+	font-weight:15px;
+}
+#why_us{}
+#why_us li {
+	line-height:27px
+}
+#why_us a {
+	color:#a09d99;
+	text-decoration:none;
+	padding-left:23px;
+	background:url(../images/marker_3.png) 0 2px no-repeat;
+	}
+#why_us a:hover {
+	color:#fff;
+	}
+#footer_link{
+	margin-top:17px;
+	border-top:1px solid #1a1a1a;
+	padding-top:19px
+	}	
+	#menu {
+	float:right;
+	padding:71px 16px 0 0;
+	}
+#menu li {
+	float:left;
+	padding-left:1px;
+	}
+#menu li a {
+	display:block;
+    font-size:19px;
+    color:#130c04;
+	text-decoration:none;
+	line-height:42px;
+	height:43px;
+	padding:0 19px;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	position:relative;
+	background:url(../images/spacer.gif) repeat;
+	}
+#menu li a:hover, #menu .active a {
+	background:url(../images/menu_bg.gif) bottom repeat-x #92d30f;
+    color:#fff;
+	}
+	

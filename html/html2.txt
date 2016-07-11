@@ -1,0 +1,40 @@
+﻿<html>
+<head>
+<link rel="stylesheet" href="../style/s3.css" type="text/css" />
+
+</head>
+<body>
+<div id="content">
+	 <h1><span><a href="">this is a picture</a></span></h1>
+	  <h2><span>this is a picture</span></h2>
+	   <hr />
+	   <div class="mid">
+			<h3>欢迎注册果壳</h3>			
+			<form action="">
+			  用户名:
+			  <input class="1" type="text" maxlength="20" size="20" /><br><br>
+			  密码:
+			<input class="2" type="password" maxlength="20" size="20" /><br><br>
+
+			
+			<input class="4"type="submit" value="注册" />
+			
+			</form>
+			</div>
+			
+	<div id="footer">
+
+			<ul>
+			 <li>all by skychou</li>
+			 <li>no 21 wuhu anhui</li>
+			 <li>email:smartweare@outlook.com</li>
+			
+			
+			</ul>
+			
+			
+</div>
+</div>
+	
+</body>
+</html>

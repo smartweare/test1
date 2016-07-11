@@ -1,0 +1,79 @@
+﻿body{margin:0 auto;
+
+  font-family:微软雅黑;
+  font-size:15px;
+  padding:0px;
+  margin:0px;
+
+}
+ul{list-style-type:none;}
+
+#content{
+	width:1024px;
+	position:relative;
+	margin:0 auto;
+}
+
+
+		#head{height:100px;margin:0 auto;}
+		
+		
+		
+		
+		   #head1{    font-family:微软雅黑;
+		   font-size:15px;
+		   padding-top:30px;
+		   padding-left:20%;
+		   
+		   
+		   }
+		   #head1 li{float:left;border-left:1px;}
+		   #head1 li a{padding:30px;}
+		#main{height:700px;padding:20px;}
+		   .main1{height:30%;width:45%;float:left;padding:10px;}
+		   .main2{height:30%;width:45%;float:right;padding:10px;}
+		   .main3{height:30%;width:45%;float:left;padding:10px;}
+		   .main4{height:30%;width:45%;float:right;padding:10px;}
+		   .main5{height:30%;width:45%;float:left;padding:10px;}
+		   .main6{height:30%;width:45%;float:right;padding:10px;}
+			   
+		h2{color:blue;font-size:30px;}
+		
+		img{float:left;width:150px;padding:10px 20px;}
+		a{color:gray;}
+		a:link {text-decoration: none;}
+		a:hover{background-color:white;}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		#foot1{
+		clear:both;
+	}
+	#foot1 ul{
+		margin-top:15px;
+		height:30px; 
+		border-bottom:10px #ddd solid;
+		border-top:10px #ddd solid;
+	}
+	#foot1 ul li{
+		width:325px;
+		float:left;
+		height:40px;
+		
+		text-align:center;
+		line-height:30px;
+		border-left:1px #bbb solid;
+	}
